@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href=#><img src="./snake.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+
+</p>
 <!--
 **ruos-sovanra/ruos-sovanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
